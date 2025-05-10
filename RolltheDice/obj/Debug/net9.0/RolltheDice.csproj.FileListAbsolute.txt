@@ -1,0 +1,15 @@
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\bin\Debug\net9.0\RolltheDice.exe
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\bin\Debug\net9.0\RolltheDice.deps.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\bin\Debug\net9.0\RolltheDice.runtimeconfig.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\bin\Debug\net9.0\RolltheDice.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\bin\Debug\net9.0\RolltheDice.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\RolltheDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\RolltheDice.AssemblyInfoInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\RolltheDice.AssemblyInfo.cs
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\RolltheDice.csproj.CoreCompileInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\RolltheDice.sourcelink.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\RolltheDice.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\refint\RolltheDice.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\RolltheDice.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\RolltheDice.genruntimeconfig.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RolltheDice\obj\Debug\net9.0\ref\RolltheDice.dll
