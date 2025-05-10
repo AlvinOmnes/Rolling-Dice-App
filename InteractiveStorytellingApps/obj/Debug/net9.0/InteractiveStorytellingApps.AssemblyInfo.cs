@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InteractiveStorytellingApps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7fb48116105aa154365762ee74cbca20f73286e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InteractiveStorytellingApps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InteractiveStorytellingApps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
