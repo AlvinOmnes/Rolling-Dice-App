@@ -1,0 +1,14 @@
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\bin\Debug\net9.0\InteractiveStorytellingApps.exe
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\bin\Debug\net9.0\InteractiveStorytellingApps.deps.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\bin\Debug\net9.0\InteractiveStorytellingApps.runtimeconfig.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\bin\Debug\net9.0\InteractiveStorytellingApps.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\bin\Debug\net9.0\InteractiveStorytellingApps.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\InteractiveStorytellingApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\InteractiveStorytellingApps.AssemblyInfoInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\InteractiveStorytellingApps.AssemblyInfo.cs
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\InteractiveStorytellingApps.csproj.CoreCompileInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\InteractiveStorytellingApps.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\refint\InteractiveStorytellingApps.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\InteractiveStorytellingApps.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\InteractiveStorytellingApps.genruntimeconfig.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\InteractiveStorytellingApps\obj\Debug\net9.0\ref\InteractiveStorytellingApps.dll
