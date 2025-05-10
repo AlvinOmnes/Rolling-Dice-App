@@ -1,0 +1,15 @@
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\bin\Debug\net9.0\SimpleCalculator.exe
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\bin\Debug\net9.0\SimpleCalculator.deps.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\bin\Debug\net9.0\SimpleCalculator.runtimeconfig.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\bin\Debug\net9.0\SimpleCalculator.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\bin\Debug\net9.0\SimpleCalculator.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.AssemblyInfo.cs
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.sourcelink.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\refint\SimpleCalculator.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.genruntimeconfig.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\SimpleCalculator\obj\Debug\net9.0\ref\SimpleCalculator.dll
