@@ -59,4 +59,4 @@ else
 Console.ReadKey();
 
 Console.Clear();
-Console.WriteLine("'Interactive Storytelling App'");
+Console.WriteLine("'Interactive Storytelling App' The End");
