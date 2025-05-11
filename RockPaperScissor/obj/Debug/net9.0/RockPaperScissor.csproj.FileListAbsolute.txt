@@ -1,0 +1,15 @@
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\RockPaperScissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\RockPaperScissor.AssemblyInfoInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\RockPaperScissor.AssemblyInfo.cs
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\RockPaperScissor.sourcelink.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\bin\Debug\net9.0\RockPaperScissor.exe
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\bin\Debug\net9.0\RockPaperScissor.deps.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\bin\Debug\net9.0\RockPaperScissor.runtimeconfig.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\bin\Debug\net9.0\RockPaperScissor.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\bin\Debug\net9.0\RockPaperScissor.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\RockPaperScissor.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\refint\RockPaperScissor.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\RockPaperScissor.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\RockPaperScissor.genruntimeconfig.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\RockPaperScissor\obj\Debug\net9.0\ref\RockPaperScissor.dll
