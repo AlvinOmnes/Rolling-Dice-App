@@ -1,0 +1,15 @@
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\GuessTheNumber.AssemblyInfo.cs
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\GuessTheNumber.sourcelink.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\bin\Debug\net9.0\GuessTheNumber.exe
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\bin\Debug\net9.0\GuessTheNumber.deps.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\bin\Debug\net9.0\GuessTheNumber.runtimeconfig.json
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\bin\Debug\net9.0\GuessTheNumber.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\bin\Debug\net9.0\GuessTheNumber.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\GuessTheNumber.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\refint\GuessTheNumber.dll
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\GuessTheNumber.pdb
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\GuessTheNumber.genruntimeconfig.cache
+C:\Programming\VS Code Projects\Learning cSharp Through Small Projects\GuessTheNumber\obj\Debug\net9.0\ref\GuessTheNumber.dll
